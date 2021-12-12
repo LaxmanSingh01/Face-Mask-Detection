@@ -7,7 +7,7 @@ This project uses a Deep Neural Network, more specifically a Convolutional Neura
 
 ## Dataset
 
-The data used can be downloaded through this link or can be downloaded from this repository as well (folders 'test' and 'train'). There are 1314 training images and 194 test images divided into two catgories, with and without mask.
+The data used can be downloaded through this link or can be downloaded from this repository as well (folders 'test' and 'train'). There are 1100 training images and 137 test images divided into two catgories, with and without mask.
 
 ## To run the app follow the below command.
 streamlit run app.py
